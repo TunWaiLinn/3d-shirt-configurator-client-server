@@ -1,7 +1,5 @@
 # 3D Shirt Customizer
 
-![3D Shirt Customizer Demo]
-
 Welcome to the 3D Shirt Customizer! This project is a dynamic tool that allows users to personalize their shirts in 3D, using a combination of Three.js, React, and the Limewire API for image generation.
 
 ## Features
