@@ -9,6 +9,7 @@ import {
   headTextAnimation,
   slideAnimation,
 } from "../config/motion";
+import { toast } from "sonner";
 
 const Home = () => {
   const snap = useSnapshot(state);
